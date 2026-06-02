@@ -11,7 +11,7 @@ Thai ver.
 ตรวจสอบการติดตั้ง
 เปิด Command Prompt (cmd) แล้วพิมพ์:
 
-python --version
+`python --version`
 
 ถ้าขึ้นเวอร์ชัน แปลว่าพร้อมใช้งาน
 
@@ -21,7 +21,7 @@ python --version
 
 เปิดไฟล์โปรแกรม เช่น:
 
-python main.py
+`python main.py
 จะปรากฏเมนูหลัก:
 1 = เพิ่มรายรับ
 2 = เพิ่มรายจ่าย
@@ -34,7 +34,7 @@ python main.py
 💡 หมายเหตุ
 ต้องรันใน Python เท่านั้น
 ไฟล์ข้อมูลจะถูกสร้างอัตโนมัติ (เช่น data.txt)
-สามารถเปิดใช้งานซ้ำได้โดยไม่ข้อมูลหาย
+สามารถเปิดใช้งานซ้ำได้โดยไม่ข้อมูลหาย`
 
 Eng ver.
 
@@ -44,7 +44,7 @@ Download and install it, and make sure to check “Add Python to PATH”.
 
 Verify installation by opening Command Prompt and typing:
 
-python --version
+`python --version`
 
 If a version appears, Python is installed correctly.
 
@@ -53,7 +53,7 @@ No additional libraries are required because this project uses only built-in Pyt
 
 Run the program using:
 
-python main.py
+`python main.py
 The main menu will appear with options:
 1 = Add income
 2 = Add expense
@@ -66,4 +66,4 @@ The program will automatically save data so it is not lost after closing.
 💡 Note
 The program runs in the terminal (command line).
 Data is stored in a text file for persistence.
-It can be reopened anytime without losing previous records.
+It can be reopened anytime without losing previous records.`
